@@ -544,16 +544,6 @@ tcgcggtatggcatga
 tggtacgaccagatag
 >fadR BBa_J54224
 gcatacgcgttactag
->YFP BBa_K1323000
-ccatctaattcaaccaaaat
->YFP BBa_K1323001
-actaatgttggccatggaac
->YFP BBa_K1323005
-tttgaaaccatctagtaatgtttttc
->YFP BBa_K1323006
-tcaccttttgaaaccatctagtaatgtt
->YFP BBa_K1323007
-taaataattcttcaccttttgaaaccat
 >ZFP BBa_J05210
 ttataaatagtg
 >ZFP BBa_J05209
@@ -654,8 +644,6 @@ ggaaaataattctta
 tgataatgataatcattatca
 >gal4 BBa_K1400000
 cggaagactctcctccg
->GFP BBa_K1062001
-ggttgtctggtaaaaggaca
 >hxlR BBa_K1334000
 gttgacttcaaagtgcctacttctc
 >hxlR BBa_K1334000 2
